@@ -70,13 +70,6 @@
     "track_url": "https://cdn.virtualtraining.eu/routes/78423/track.xml"
   },
   {
-    "id": 77234,
-    "name": "Serra Velha de Campos do Jord\u00e3o",
-    "description": " 34.44 km, 1067 vm (3.10% avg)",
-    "video_url": "https://mediacdn.rouvy.com/routes/77234/video/77234_720.mp4",
-    "track_url": "https://cdn.virtualtraining.eu/routes/77234/track.xml"
-  },
-  {
     "id": 24248,
     "name": "Superbagneres improved with snow",
     "description": " 18.31 km, 1165 vm (6.36% avg)",
@@ -364,6 +357,167 @@
     "track_url": "http://localhost:3000/rides/80714.xml"
   },
   {
+    "id": 95595,
+    "name": "Passo Maniva from Lago d'Idro via Baremone | Italy",
+    "description": " 25.89 km, 1351 vm (5.22% avg)",
+    "video_url": "https://mediacdn.rouvy.com/routes/95595/video/95595_720.mp4",
+    "track_url": "https://cdn.virtualtraining.eu/routes/95595/track.xml"
+  },
+  {
+    "id": 39739,
+    "name": "Mt Semnoz- Cret du chatillion",
+    "description": " 28.97 km, 1153 vm (3.98% avg)",
+    "video_url": "https://mediacdn.rouvy.com/routes/39739/video/39739_720.mp4",
+    "track_url": "https://cdn.virtualtraining.eu/routes/39739/track.xml"
+  },
+  {
+    "id": 71931,
+    "name": "cumiana colletta braida ritorno a giaveno",
+    "description": " 25.83 km, 781 vm (3.02% avg)",
+    "video_url": "https://mediacdn.rouvy.com/routes/71931/video/71931_720.mp4",
+    "track_url": "https://cdn.virtualtraining.eu/routes/71931/track.xml"
+  },
+  {
+    "id": 82946,
+    "name": "Sofia-Qrema",
+    "description": " 20.63 km, 718 vm (3.48% avg)",
+    "video_url": "https://mediacdn.rouvy.com/routes/82946/video/82946_720.mp4",
+    "track_url": "https://cdn.virtualtraining.eu/routes/82946/track.xml"
+  },
+  {
+    "id": 63180,
+    "name": "Tour des Stations | Nax by Vercorin from Sierre\r\n",
+    "description": " 22.76 km, 1174 vm (5.16% avg)",
+    "video_url": "https://mediacdn.rouvy.com/routes/63180/video/63180_720.mp4",
+    "track_url": "http://localhost:3000/rides/63180.xml"
+  },
+  {
+    "id": 38017,
+    "name": "Selvia_Lluc improved",
+    "description": " 21.15 km, 643 vm (3.04% avg)",
+    "video_url": "https://mediacdn.rouvy.com/routes/38017/video/38017_720.mp4",
+    "track_url": "https://cdn.virtualtraining.eu/routes/38017/track.xml"
+  },
+  {
+    "id": 62763,
+    "name": "Col de l'iseran from Lanslebourg",
+    "description": "This is the entire climb from Lanslebourg to the top of the Col De L'Iseran I cycled early september. Please note that the footage between Bessans and Bonneval-sur-Arc will be wobbly in parts due to bad tarmac. ( and lack of stabilizer in my action cam..) I did it in 1:56 hrs, let's see how much faster you can do it ! I've also put up a shorter version which 'only\" has the actual climb from Bonneval to the summit., 29.15 km, 1319 vm (4.53% avg)",
+    "video_url": "https://mediacdn.rouvy.com/routes/62763/video/62763_720.mp4",
+    "track_url": "https://cdn.virtualtraining.eu/routes/62763/track.xml"
+  },
+  {
+    "id": 42462,
+    "name": "Cormet de Roselend via Col du Pr\u00e9",
+    "description": " 26.06 km, 1467 vm (5.63% avg)",
+    "video_url": "https://mediacdn.rouvy.com/routes/42462/video/42462_720.mp4",
+    "track_url": "https://cdn.virtualtraining.eu/routes/42462/track.xml"
+  },
+  {
+    "id": 78806,
+    "name": "Golden Gate Canyon, Colorado",
+    "description": " 28.05 km, 1289 vm (4.60% avg)",
+    "video_url": "https://mediacdn.rouvy.com/routes/78806/video/78806_720.mp4",
+    "track_url": "http://localhost:3000/rides/78806.xml"
+  },
+  {
+    "id": 75494,
+    "name": "Purau - Port Levy - Pigeon Bay",
+    "description": " 30.00 km, 1395 vm (4.65% avg)",
+    "video_url": "https://mediacdn.rouvy.com/routes/75494/video/75494_720.mp4",
+    "track_url": "http://localhost:3000/rides/75494.xml"
+  },
+  {
+    "id": 92123,
+    "name": "GFNY Manta 30km",
+    "description": " 29.60 km, 711 vm (2.40% avg)",
+    "video_url": "https://mediacdn.rouvy.com/routes/92123/video/92123_720.mp4",
+    "track_url": "http://localhost:3000/rides/92123.xml"
+  },
+  {
+    "id": 70333,
+    "name": "Mont Royal",
+    "description": " 23.09 km, 620 vm (2.68% avg)",
+    "video_url": "https://mediacdn.rouvy.com/routes/70333/video/70333_720.mp4",
+    "track_url": "https://cdn.virtualtraining.eu/routes/70333/track.xml"
+  },
+  {
+    "id": 57002,
+    "name": "La Vuelta 2020 | Stage 8 - Alto de Moncalvillo",
+    "description": " 29.69 km, 1114 vm (3.75% avg)",
+    "video_url": "https://mediacdn.rouvy.com/routes/57002/video/57002_720.mp4",
+    "track_url": "http://localhost:3000/rides/57002.xml"
+  },
+  {
+    "id": 95724,
+    "name": "Alpe d'Huez | Full Chrono Route | France",
+    "description": " 15.34 km, 1126 vm (7.34% avg)",
+    "video_url": "https://mediacdn.rouvy.com/routes/95724/video/95724_720.mp4",
+    "track_url": "https://cdn.virtualtraining.eu/routes/95724/track.xml"
+  },
+  {
+    "id": 95915,
+    "name": "Tour Down Under 2024 | Stage 6 - Uraidla",
+    "description": " 30.83 km, 624 vm (2.02% avg)",
+    "video_url": "https://mediacdn.rouvy.com/routes/95915/video/95915_720.mp4",
+    "track_url": "http://localhost:3000/rides/95915.xml"
+  },
+  {
+    "id": 95714,
+    "name": "Hourquette d'Ancizan (Nord) [Tour de France 2024]",
+    "description": " 28.45 km, 777 vm (2.73% avg)",
+    "video_url": "https://mediacdn.rouvy.com/routes/95714/video/95714_720.mp4",
+    "track_url": "https://cdn.virtualtraining.eu/routes/95714/track.xml"
+  },
+  {
+    "id": 95414,
+    "name": "La Vuelta 2023 | Stage 8 - Xorret de Cat\u00ed",
+    "description": " 30.09 km, 761 vm (2.53% avg)",
+    "video_url": "https://mediacdn.rouvy.com/routes/95414/video/95414_720.mp4",
+    "track_url": "http://localhost:3000/rides/95414.xml"
+  },
+  {
+    "id": 95344,
+    "name": "Cirque de Troumouse | Pyrenees | France",
+    "description": "The Cirque de Troumouse is a glacial cirque located in the center of the Pyrenees, in the Haute Pyren\u00e9es department in France, forming the border to Spain. The small road offers breathtaking views of an majestic landscape., 16.56 km, 1075 vm (6.49% avg)",
+    "video_url": "https://mediacdn.rouvy.com/routes/95344/video/95344_720.mp4",
+    "track_url": "https://cdn.virtualtraining.eu/routes/95344/track.xml"
+  },
+  {
+    "id": 94569,
+    "name": "Puig Major - Mallorca",
+    "description": " 22.16 km, 909 vm (4.10% avg)",
+    "video_url": "https://mediacdn.rouvy.com/routes/94569/video/94569_720.mp4",
+    "track_url": "http://localhost:3000/rides/94569.xml"
+  },
+  {
+    "id": 93773,
+    "name": "La Vuelta 2022 | Stage 15 - Sierra Nevada (Last 15km)",
+    "description": " 15.26 km, 815 vm (5.34% avg)",
+    "video_url": "https://mediacdn.rouvy.com/routes/93773/video/93773_720.mp4",
+    "track_url": "http://localhost:3000/rides/93773.xml"
+  },
+  {
+    "id": 93736,
+    "name": "Andros island | Greece",
+    "description": " 33.47 km, 870 vm (2.60% avg)",
+    "video_url": "https://mediacdn.rouvy.com/routes/93736/video/93736_720.mp4",
+    "track_url": "http://localhost:3000/rides/93736.xml"
+  },
+  {
+    "id": 86687,
+    "name": "Suncrest Drive | Salt Lake City | UTAH",
+    "description": " 18.88 km, 726 vm (3.85% avg)",
+    "video_url": "https://mediacdn.rouvy.com/routes/86687/video/86687_720.mp4",
+    "track_url": "http://localhost:3000/rides/86687.xml"
+  },
+  {
+    "id": 84404,
+    "name": "PEDALITALY Colli Romagnoli - Romagna - Italy",
+    "description": " 23.87 km, 1023 vm (4.29% avg)",
+    "video_url": "https://mediacdn.rouvy.com/routes/84404/video/84404_720.mp4",
+    "track_url": "http://localhost:3000/rides/84404.xml"
+  },
+  {
     "id": 56888,
     "name": "La Vuelta 2020 | Stage 11 - Alto de la Farrapona",
     "description": " 42.89 km, 2193 vm (5.11% avg)",
@@ -467,96 +621,5 @@
     "description": " 33.83 km, 599 vm (1.77% avg)",
     "video_url": "https://mediacdn.rouvy.com/routes/13915/video/13915_desktop.mp4",
     "track_url": "https://cdn.virtualtraining.eu/routes/13915/track.xml"
-  },
-  {
-    "id": 95595,
-    "name": "Passo Maniva from Lago d'Idro via Baremone | Italy",
-    "description": " 25.89 km, 1351 vm (5.22% avg)",
-    "video_url": "https://mediacdn.rouvy.com/routes/95595/video/95595_720.mp4",
-    "track_url": "https://cdn.virtualtraining.eu/routes/95595/track.xml"
-  },
-  {
-    "id": 39739,
-    "name": "Mt Semnoz- Cret du chatillion",
-    "description": " 28.97 km, 1153 vm (3.98% avg)",
-    "video_url": "https://mediacdn.rouvy.com/routes/39739/video/39739_720.mp4",
-    "track_url": "https://cdn.virtualtraining.eu/routes/39739/track.xml"
-  },
-  {
-    "id": 71931,
-    "name": "cumiana colletta braida ritorno a giaveno",
-    "description": " 25.83 km, 781 vm (3.02% avg)",
-    "video_url": "https://mediacdn.rouvy.com/routes/71931/video/71931_720.mp4",
-    "track_url": "https://cdn.virtualtraining.eu/routes/71931/track.xml"
-  },
-  {
-    "id": 82946,
-    "name": "Sofia-Qrema",
-    "description": " 20.63 km, 718 vm (3.48% avg)",
-    "video_url": "https://mediacdn.rouvy.com/routes/82946/video/82946_720.mp4",
-    "track_url": "https://cdn.virtualtraining.eu/routes/82946/track.xml"
-  },
-  {
-    "id": 63180,
-    "name": "Tour des Stations | Nax by Vercorin from Sierre\r\n",
-    "description": " 22.76 km, 1174 vm (5.16% avg)",
-    "video_url": "https://mediacdn.rouvy.com/routes/63180/video/63180_720.mp4",
-    "track_url": "http://localhost:3000/rides/63180.xml"
-  },
-  {
-    "id": 38017,
-    "name": "Selvia_Lluc improved",
-    "description": " 21.15 km, 643 vm (3.04% avg)",
-    "video_url": "https://mediacdn.rouvy.com/routes/38017/video/38017_720.mp4",
-    "track_url": "https://cdn.virtualtraining.eu/routes/38017/track.xml"
-  },
-  {
-    "id": 62763,
-    "name": "Col de l'iseran from Lanslebourg",
-    "description": "This is the entire climb from Lanslebourg to the top of the Col De L'Iseran I cycled early september. Please note that the footage between Bessans and Bonneval-sur-Arc will be wobbly in parts due to bad tarmac. ( and lack of stabilizer in my action cam..) I did it in 1:56 hrs, let's see how much faster you can do it ! I've also put up a shorter version which 'only\" has the actual climb from Bonneval to the summit., 29.15 km, 1319 vm (4.53% avg)",
-    "video_url": "https://mediacdn.rouvy.com/routes/62763/video/62763_720.mp4",
-    "track_url": "https://cdn.virtualtraining.eu/routes/62763/track.xml"
-  },
-  {
-    "id": 42462,
-    "name": "Cormet de Roselend via Col du Pr\u00e9",
-    "description": " 26.06 km, 1467 vm (5.63% avg)",
-    "video_url": "https://mediacdn.rouvy.com/routes/42462/video/42462_720.mp4",
-    "track_url": "https://cdn.virtualtraining.eu/routes/42462/track.xml"
-  },
-  {
-    "id": 78806,
-    "name": "Golden Gate Canyon, Colorado",
-    "description": " 28.05 km, 1289 vm (4.60% avg)",
-    "video_url": "https://mediacdn.rouvy.com/routes/78806/video/78806_720.mp4",
-    "track_url": "http://localhost:3000/rides/78806.xml"
-  },
-  {
-    "id": 75494,
-    "name": "Purau - Port Levy - Pigeon Bay",
-    "description": " 30.00 km, 1395 vm (4.65% avg)",
-    "video_url": "https://mediacdn.rouvy.com/routes/75494/video/75494_720.mp4",
-    "track_url": "http://localhost:3000/rides/75494.xml"
-  },
-  {
-    "id": 92123,
-    "name": "GFNY Manta 30km",
-    "description": " 29.60 km, 711 vm (2.40% avg)",
-    "video_url": "https://mediacdn.rouvy.com/routes/92123/video/92123_720.mp4",
-    "track_url": "http://localhost:3000/rides/92123.xml"
-  },
-  {
-    "id": 70333,
-    "name": "Mont Royal",
-    "description": " 23.09 km, 620 vm (2.68% avg)",
-    "video_url": "https://mediacdn.rouvy.com/routes/70333/video/70333_720.mp4",
-    "track_url": "https://cdn.virtualtraining.eu/routes/70333/track.xml"
-  },
-  {
-    "id": 57002,
-    "name": "La Vuelta 2020 | Stage 8 - Alto de Moncalvillo",
-    "description": " 29.69 km, 1114 vm (3.75% avg)",
-    "video_url": "https://mediacdn.rouvy.com/routes/57002/video/57002_720.mp4",
-    "track_url": "http://localhost:3000/rides/57002.xml"
   }
 ]

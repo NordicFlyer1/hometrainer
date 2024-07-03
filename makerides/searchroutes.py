@@ -51,8 +51,8 @@ tic = time.perf_counter()
 
 login_url = "https://riders.rouvy.com/login?_data=routes%2F_auth.login"
 login_data = {
-    'email': 'email-address',
-    'password': 'password'
+    'email': 'stefaandesmet2003@yahoo.co.uk',
+    'password': '*Brievenbus1'
     }
 r = s.post(login_url,login_data,verify=False)
 toc = time.perf_counter()

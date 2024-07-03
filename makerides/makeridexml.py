@@ -4,6 +4,7 @@ turns AR routes in a usable xml for hometrainer
 for non-AR routes the xml is available online
 creates the rides.json for hometrainer (appended after each run of make_all_rides())
 tmp dir contains the html & unzipped json data (AR only)
+TODO : check route 77234 is non-video -> mag niet in de rides.json terechtkomen
 
 '''
 import json
@@ -15,7 +16,7 @@ import os  # files
 requests.packages.urllib3.disable_warnings()
 
 ridesjsonfilename = 'rides.json'
-rideids = [2675,22010,4476,32590,7702,27104,3260,94893,73764,78423,77234,24248,56662]
+rideids = [2675,22010,4476,32590,7702,27104,3260,94893,73764,78423,24248,56662,77234]
 rideids.extend([56017,55278,55326,83517,22988,7169,70161,70231])
 rideids.extend([77756,84408,86987,87659,87667,92452,77109, 81488, 83294, 31652, 95912, 95373, 79357, 78811, 78396, 78185, 93829, 92431,
             95266, 94237, 89633, 74256])
@@ -23,6 +24,7 @@ rideids.extend([77756,84408,86987,87659,87667,92452,77109, 81488, 83294, 31652, 
 rideids.extend([93411,95921])
 rideids.extend([22010,39329,56323,60781,70870,76585,77123,80714]) # 28/02/2024
 rideids.extend([95595,39739,56662,71931,82946,63180,38017,62763,42462,78806,75494,92123,70333,57002]) # 09/03/2024
+rideids.extend([95724,95915,95714,95414,95344,94569,93773,93736,86687,84404]) # 10/03/2024
 
 
 # end of list rides
@@ -149,7 +151,7 @@ def get_route_info(rideid):
     arfileurl = rj.get('arfileurl')
     is_ar = arfileurl is not None and 'http' in arfileurl
     videoset = rj.get('videoset')
-    video_url_sq, video_url_lq = None, None
+    video_url, video_url_sq, video_url_lq = None, None, None
     print(f"{videoset=}")
     if videoset:
         for video in videoset:
@@ -163,7 +165,8 @@ def get_route_info(rideid):
         video_url = video_url_lq
     else:
         print(f"WARNING : no video url found in {videoset=}")
-        video_url = f"https://mediacdn.rouvy.com/routes/{rideid}/video/{rideid}_720.mp4"
+        # 03.2024 : leave video_url empty and skip from rides.json
+        # video_url = f"https://mediacdn.rouvy.com/routes/{rideid}/video/{rideid}_720.mp4"
 
     print(f"route info : {routename}:{description}, created : {creationdate}, AR={is_ar}")
     print(f"route length : {routelength}m, vertical ascent : {ascent}m")
@@ -202,7 +205,6 @@ def get_route_info(rideid):
             'creation_date': creationdate,
             'distance': trackinfo_totaldistance or routelength,
             'ascent': ascent,
-            # 'video_url' : f"https://mediacdn.rouvy.com/routes/{rideid}/video/{rideid}_720.mp4",
             'video_url': video_url,
             'track_url': track_url,
             'trackpoints': trackpoints,
@@ -314,7 +316,8 @@ def make_all_rides():
                 'video_url': ri['video_url'],
                 'track_url': ri['track_url'],
             }
-            rides.append(ride)
+            if ride['video_url']: # only store video rides
+                rides.append(ride)
         print("********************************************************************")
 
     print(f"updating {ridesjsonfilename}")
