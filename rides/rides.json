@@ -88,21 +88,21 @@
     "name": "Alto de La Farrapona",
     "description": " 23.71 km, 1249 vm (5.27% avg)",
     "video_url": "https://mediacdn.rouvy.com/routes/56017/video/56017_720.mp4",
-    "track_url": "http://localhost:3000/rides/56017.xml"
+    "track_url": "./rides/56017.xml"
   },
   {
     "id": 55278,
     "name": "Puerto de San Lorenza",
     "description": " 31.32 km, 1167 vm (3.73% avg)",
     "video_url": "https://mediacdn.rouvy.com/routes/55278/video/55278_720.mp4",
-    "track_url": "http://localhost:3000/rides/55278.xml"
+    "track_url": "./rides/55278.xml"
   },
   {
     "id": 55326,
     "name": "La Vuelta 2020 | Stage 10 - Comillas",
     "description": " 24.49 km, 489 vm (2.00% avg)",
     "video_url": "https://mediacdn.rouvy.com/routes/55326/video/55326_720.mp4",
-    "track_url": "http://localhost:3000/rides/55326.xml"
+    "track_url": "./rides/55326.xml"
   },
   {
     "id": 83517,
@@ -144,63 +144,63 @@
     "name": "La Vuelta 2021 | Stage 12 - Cordoba",
     "description": " 30.95 km, 997 vm (3.22% avg)",
     "video_url": "https://mediacdn.rouvy.com/routes/77756/video/77756_720.mp4",
-    "track_url": "http://localhost:3000/rides/77756.xml"
+    "track_url": "./rides/77756.xml"
   },
   {
     "id": 84408,
     "name": "PEDALITALY Gaiole - Tuscany - Italy",
     "description": " 33.06 km, 700 vm (2.12% avg)",
     "video_url": "https://mediacdn.rouvy.com/routes/84408/video/84408_720.mp4",
-    "track_url": "http://localhost:3000/rides/84408.xml"
+    "track_url": "./rides/84408.xml"
   },
   {
     "id": 86987,
     "name": "Broken River | Narnia location | New Zealand",
     "description": " 29.40 km, 556 vm (1.89% avg)",
     "video_url": "https://mediacdn.rouvy.com/routes/86987/video/86987_720.mp4",
-    "track_url": "http://localhost:3000/rides/86987.xml"
+    "track_url": "./rides/86987.xml"
   },
   {
     "id": 87659,
     "name": "Glenhope | Hurunui | New Zealand",
     "description": " 33.60 km, 579 vm (1.72% avg)",
     "video_url": "https://mediacdn.rouvy.com/routes/87659/video/87659_720.mp4",
-    "track_url": "http://localhost:3000/rides/87659.xml"
+    "track_url": "./rides/87659.xml"
   },
   {
     "id": 87667,
     "name": "La Doyenne | Belgium",
     "description": " 26.10 km, 833 vm (3.19% avg)",
     "video_url": "https://mediacdn.rouvy.com/routes/87667/video/87667_720.mp4",
-    "track_url": "http://localhost:3000/rides/87667.xml"
+    "track_url": "./rides/87667.xml"
   },
   {
     "id": 92452,
     "name": "Stage 5 (Novazzano) - Tour de Suisse 2022",
     "description": " 27.92 km, 663 vm (2.37% avg)",
     "video_url": "https://mediacdn.rouvy.com/routes/92452/video/92452_720.mp4",
-    "track_url": "http://localhost:3000/rides/92452.xml"
+    "track_url": "./rides/92452.xml"
   },
   {
     "id": 77109,
     "name": "Akaroa Harbour - Long Bay Road",
     "description": " 17.99 km, 943 vm (5.24% avg)",
     "video_url": "https://mediacdn.rouvy.com/routes/77109/video/77109_720.mp4",
-    "track_url": "http://localhost:3000/rides/77109.xml"
+    "track_url": "./rides/77109.xml"
   },
   {
     "id": 81488,
     "name": "Tour de Manc Saddleworth Hills",
     "description": " 17.99 km, 585 vm (3.25% avg)",
     "video_url": "https://mediacdn.rouvy.com/routes/81488/video/81488_720.mp4",
-    "track_url": "http://localhost:3000/rides/81488.xml"
+    "track_url": "./rides/81488.xml"
   },
   {
     "id": 83294,
     "name": "Akaroa to Wainui | Lands End Rd | New Zealand",
     "description": " 32.04 km, 983 vm (3.07% avg)",
     "video_url": "https://mediacdn.rouvy.com/routes/83294/video/83294_720.mp4",
-    "track_url": "http://localhost:3000/rides/83294.xml"
+    "track_url": "./rides/83294.xml"
   },
   {
     "id": 31652,
@@ -214,77 +214,77 @@
     "name": "Tour Down Under 2024 | Stage 3 - Cockatoo Valley",
     "description": " 36.24 km, 766 vm (2.11% avg)",
     "video_url": "https://mediacdn.rouvy.com/routes/95912/video/95912_720.mp4",
-    "track_url": "http://localhost:3000/rides/95912.xml"
+    "track_url": "./rides/95912.xml"
   },
   {
     "id": 95373,
     "name": "Tour de France 2023 | Col de la Loze",
     "description": " 34.58 km, 1903 vm (5.50% avg)",
     "video_url": "https://mediacdn.rouvy.com/routes/95373/video/95373_720.mp4",
-    "track_url": "http://localhost:3000/rides/95373.xml"
+    "track_url": "./rides/95373.xml"
   },
   {
     "id": 79357,
     "name": "KOM RACE SUMMIT FINISH",
     "description": " 9.88 km, 731 vm (7.40% avg)",
     "video_url": "https://mediacdn.rouvy.com/routes/79357/video/79357_720.mp4",
-    "track_url": "http://localhost:3000/rides/79357.xml"
+    "track_url": "./rides/79357.xml"
   },
   {
     "id": 78811,
     "name": "Evergreen Residential, Colorado",
     "description": " 19.92 km, 546 vm (2.74% avg)",
     "video_url": "https://mediacdn.rouvy.com/routes/78811/video/78811_720.mp4",
-    "track_url": "http://localhost:3000/rides/78811.xml"
+    "track_url": "./rides/78811.xml"
   },
   {
     "id": 78396,
     "name": "La Vuelta 2021 | Stage 18 - Alto Gamoniteiru",
     "description": " 29.84 km, 1953 vm (6.55% avg)",
     "video_url": "https://mediacdn.rouvy.com/routes/78396/video/78396_720.mp4",
-    "track_url": "http://localhost:3000/rides/78396.xml"
+    "track_url": "./rides/78396.xml"
   },
   {
     "id": 78185,
     "name": "Okains Bay",
     "description": " 30.01 km, 1155 vm (3.85% avg)",
     "video_url": "https://mediacdn.rouvy.com/routes/78185/video/78185_720.mp4",
-    "track_url": "http://localhost:3000/rides/78185.xml"
+    "track_url": "./rides/78185.xml"
   },
   {
     "id": 93829,
     "name": "Pikes Peak Highway | Colorado | USA",
     "description": " 29.05 km, 1986 vm (6.84% avg)",
     "video_url": "https://mediacdn.rouvy.com/routes/93829/video/93829_720.mp4",
-    "track_url": "http://localhost:3000/rides/93829.xml"
+    "track_url": "./rides/93829.xml"
   },
   {
     "id": 92431,
     "name": "National Monument | Colorado | USA",
     "description": " 25.25 km, 680 vm (2.69% avg)",
     "video_url": "https://mediacdn.rouvy.com/routes/92431/video/92431_720.mp4",
-    "track_url": "http://localhost:3000/rides/92431.xml"
+    "track_url": "./rides/92431.xml"
   },
   {
     "id": 95266,
     "name": "Bryce Canyon National Park | Utah | USA",
     "description": " 27.00 km, 587 vm (2.17% avg)",
     "video_url": "https://mediacdn.rouvy.com/routes/95266/video/95266_720.mp4",
-    "track_url": "http://localhost:3000/rides/95266.xml"
+    "track_url": "./rides/95266.xml"
   },
   {
     "id": 94237,
     "name": "Cascade Springs in Fall | UTAH | USA",
     "description": " 26.67 km, 1019 vm (3.82% avg)",
     "video_url": "https://mediacdn.rouvy.com/routes/94237/video/94237_720.mp4",
-    "track_url": "http://localhost:3000/rides/94237.xml"
+    "track_url": "./rides/94237.xml"
   },
   {
     "id": 89633,
     "name": "Arches National Park | UTAH | USA",
     "description": "You'll enjoy this beautiful evening ride through Arches National Park as the sun sets over the towering sandstone. You'll ride past Park Avenue, Court House Towers and the 3 Gossips. You will also pass by the Iconic Balanced Rock. How it's still standing is anyone's guess. You'll then do a loop past Windows arches and Double Arch. Up next you'll pass by the turn off for the World Famous Delicate arch that gives Arches it's name, and righfully so. You won't see if from your bike however. It does require a short hike to view it. Onto Fiery Furnace. A labrynth of towering sandstone sculptures. Some have become lost in this maze and have needed rescue. You'll then pass by Sand Dune Arch and Skyline Arch. You'll finish your sunset ride at the base of Devil's Garden, where you'll find Tunnel Arch, Pine Tree Arch, Navajo Arch and the World's longest spanning arch, Landscape Arch. Also opening scenes of Indiana Jones and the last Crusade were fillmed in this area., 35.86 km, 840 vm (2.34% avg)",
     "video_url": "https://mediacdn.rouvy.com/routes/89633/video/89633_720.mp4",
-    "track_url": "http://localhost:3000/rides/89633.xml"
+    "track_url": "./rides/89633.xml"
   },
   {
     "id": 74256,
@@ -298,63 +298,63 @@
     "name": "La Vuelta 2022 | Stage 18 - Alto de Piornal",
     "description": " 19.94 km, 823 vm (4.13% avg)",
     "video_url": "https://mediacdn.rouvy.com/routes/93411/video/93411_720.mp4",
-    "track_url": "http://localhost:3000/rides/93411.xml"
+    "track_url": "./rides/93411.xml"
   },
   {
     "id": 95921,
     "name": "Tidbinbilla to Corin Dam | Australia",
     "description": " 24.94 km, 723 vm (2.90% avg)",
     "video_url": "https://mediacdn.rouvy.com/routes/95921/video/95921_720.mp4",
-    "track_url": "http://localhost:3000/rides/95921.xml"
+    "track_url": "./rides/95921.xml"
   },
   {
     "id": 39329,
     "name": "TdS 2021 - Leukerbad",
     "description": " 26.62 km, 1182 vm (4.44% avg)",
     "video_url": "https://mediacdn.rouvy.com/routes/39329/video/39329_720.mp4",
-    "track_url": "http://localhost:3000/rides/39329.xml"
+    "track_url": "./rides/39329.xml"
   },
   {
     "id": 56323,
     "name": "Canon de Anisclo",
     "description": " 33.15 km, 996 vm (3.00% avg)",
     "video_url": "https://mediacdn.rouvy.com/routes/56323/video/56323_720.mp4",
-    "track_url": "http://localhost:3000/rides/56323.xml"
+    "track_url": "./rides/56323.xml"
   },
   {
     "id": 60781,
     "name": "PEDALITALY - Verona - Veneto - Italy",
     "description": " 33.12 km, 1354 vm (4.09% avg)",
     "video_url": "https://mediacdn.rouvy.com/routes/60781/video/60781_720.mp4",
-    "track_url": "http://localhost:3000/rides/60781.xml"
+    "track_url": "./rides/60781.xml"
   },
   {
     "id": 70870,
     "name": "PEDALITALY Bologna - Emilia - Italy",
     "description": " 26.51 km, 665 vm (2.51% avg)",
     "video_url": "https://mediacdn.rouvy.com/routes/70870/video/70870_720.mp4",
-    "track_url": "http://localhost:3000/rides/70870.xml"
+    "track_url": "./rides/70870.xml"
   },
   {
     "id": 76585,
     "name": "Cycling Unlimited - Glaubenberg",
     "description": " 17.75 km, 880 vm (4.96% avg)",
     "video_url": "https://mediacdn.rouvy.com/routes/76585/video/76585_720.mp4",
-    "track_url": "http://localhost:3000/rides/76585.xml"
+    "track_url": "./rides/76585.xml"
   },
   {
     "id": 77123,
     "name": "Diamond Harbour - Gebbys Pass",
     "description": " 30.42 km, 840 vm (2.76% avg)",
     "video_url": "https://mediacdn.rouvy.com/routes/77123/video/77123_720.mp4",
-    "track_url": "http://localhost:3000/rides/77123.xml"
+    "track_url": "./rides/77123.xml"
   },
   {
     "id": 80714,
     "name": "La Vuelta 2021 | Stage 21 - Santiago de Compostela",
     "description": " 30.77 km, 613 vm (1.99% avg)",
     "video_url": "https://mediacdn.rouvy.com/routes/80714/video/80714_720.mp4",
-    "track_url": "http://localhost:3000/rides/80714.xml"
+    "track_url": "./rides/80714.xml"
   },
   {
     "id": 95595,
@@ -389,7 +389,7 @@
     "name": "Tour des Stations | Nax by Vercorin from Sierre\r\n",
     "description": " 22.76 km, 1174 vm (5.16% avg)",
     "video_url": "https://mediacdn.rouvy.com/routes/63180/video/63180_720.mp4",
-    "track_url": "http://localhost:3000/rides/63180.xml"
+    "track_url": "./rides/63180.xml"
   },
   {
     "id": 38017,
@@ -417,21 +417,21 @@
     "name": "Golden Gate Canyon, Colorado",
     "description": " 28.05 km, 1289 vm (4.60% avg)",
     "video_url": "https://mediacdn.rouvy.com/routes/78806/video/78806_720.mp4",
-    "track_url": "http://localhost:3000/rides/78806.xml"
+    "track_url": "./rides/78806.xml"
   },
   {
     "id": 75494,
     "name": "Purau - Port Levy - Pigeon Bay",
     "description": " 30.00 km, 1395 vm (4.65% avg)",
     "video_url": "https://mediacdn.rouvy.com/routes/75494/video/75494_720.mp4",
-    "track_url": "http://localhost:3000/rides/75494.xml"
+    "track_url": "./rides/75494.xml"
   },
   {
     "id": 92123,
     "name": "GFNY Manta 30km",
     "description": " 29.60 km, 711 vm (2.40% avg)",
     "video_url": "https://mediacdn.rouvy.com/routes/92123/video/92123_720.mp4",
-    "track_url": "http://localhost:3000/rides/92123.xml"
+    "track_url": "./rides/92123.xml"
   },
   {
     "id": 70333,
@@ -445,7 +445,7 @@
     "name": "La Vuelta 2020 | Stage 8 - Alto de Moncalvillo",
     "description": " 29.69 km, 1114 vm (3.75% avg)",
     "video_url": "https://mediacdn.rouvy.com/routes/57002/video/57002_720.mp4",
-    "track_url": "http://localhost:3000/rides/57002.xml"
+    "track_url": "./rides/57002.xml"
   },
   {
     "id": 95724,
@@ -459,7 +459,7 @@
     "name": "Tour Down Under 2024 | Stage 6 - Uraidla",
     "description": " 30.83 km, 624 vm (2.02% avg)",
     "video_url": "https://mediacdn.rouvy.com/routes/95915/video/95915_720.mp4",
-    "track_url": "http://localhost:3000/rides/95915.xml"
+    "track_url": "./rides/95915.xml"
   },
   {
     "id": 95714,
@@ -473,7 +473,7 @@
     "name": "La Vuelta 2023 | Stage 8 - Xorret de Cat\u00ed",
     "description": " 30.09 km, 761 vm (2.53% avg)",
     "video_url": "https://mediacdn.rouvy.com/routes/95414/video/95414_720.mp4",
-    "track_url": "http://localhost:3000/rides/95414.xml"
+    "track_url": "./rides/95414.xml"
   },
   {
     "id": 95344,
@@ -487,42 +487,42 @@
     "name": "Puig Major - Mallorca",
     "description": " 22.16 km, 909 vm (4.10% avg)",
     "video_url": "https://mediacdn.rouvy.com/routes/94569/video/94569_720.mp4",
-    "track_url": "http://localhost:3000/rides/94569.xml"
+    "track_url": "./rides/94569.xml"
   },
   {
     "id": 93773,
     "name": "La Vuelta 2022 | Stage 15 - Sierra Nevada (Last 15km)",
     "description": " 15.26 km, 815 vm (5.34% avg)",
     "video_url": "https://mediacdn.rouvy.com/routes/93773/video/93773_720.mp4",
-    "track_url": "http://localhost:3000/rides/93773.xml"
+    "track_url": "./rides/93773.xml"
   },
   {
     "id": 93736,
     "name": "Andros island | Greece",
     "description": " 33.47 km, 870 vm (2.60% avg)",
     "video_url": "https://mediacdn.rouvy.com/routes/93736/video/93736_720.mp4",
-    "track_url": "http://localhost:3000/rides/93736.xml"
+    "track_url": "./rides/93736.xml"
   },
   {
     "id": 86687,
     "name": "Suncrest Drive | Salt Lake City | UTAH",
     "description": " 18.88 km, 726 vm (3.85% avg)",
     "video_url": "https://mediacdn.rouvy.com/routes/86687/video/86687_720.mp4",
-    "track_url": "http://localhost:3000/rides/86687.xml"
+    "track_url": "./rides/86687.xml"
   },
   {
     "id": 84404,
     "name": "PEDALITALY Colli Romagnoli - Romagna - Italy",
     "description": " 23.87 km, 1023 vm (4.29% avg)",
     "video_url": "https://mediacdn.rouvy.com/routes/84404/video/84404_720.mp4",
-    "track_url": "http://localhost:3000/rides/84404.xml"
+    "track_url": "./rides/84404.xml"
   },
   {
     "id": 56888,
     "name": "La Vuelta 2020 | Stage 11 - Alto de la Farrapona",
     "description": " 42.89 km, 2193 vm (5.11% avg)",
     "video_url": "https://mediacdn.rouvy.com/routes/56888/video/56888_720.mp4",
-    "track_url": "http://localhost:3000/rides/56888.xml"
+    "track_url": "./rides/56888.xml"
   },
   {
     "id": 19636,
